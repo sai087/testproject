@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author katmanik
+ *
+ */
+module TestProject {
+}
